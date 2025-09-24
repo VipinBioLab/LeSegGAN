@@ -1,4 +1,4 @@
-# LeSegGAN: A Hybrid Attention-Enhanced GAN for Accurate Lesion Segmentation
+# LeSegGAN: A Hybrid Attention-Based GAN for Accurate Lesion Segmentation
 
 ## Overview
 Accurate segmentation of skin lesions is critical for the early detection of melanoma and other skin cancers. Traditional deep learning methods (CNNs, transformers) face limitations in capturing both local and global contextual features, handling irregular lesion boundaries, and maintaining robustness against common artifacts such as hair, shadows, and illumination variations.
