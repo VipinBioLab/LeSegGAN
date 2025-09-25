@@ -10,7 +10,7 @@ Accurate segmentation of skin lesions is critical for the early detection of mel
 - **ViT-based Discriminator**: Incorporates transformer-based global attention for better adversarial learning.
 - **Composite Loss Function**: Weighted Binary Cross-Entropy + Dice Loss + Focal Loss to handle class imbalance and enhance performance.
 - **Benchmark Evaluation**: Tested on four widely used datasets:
-- **(NOTE: All images will be uploaded after final acceptance of the manuscript)**
+  (**NOTE:** All images will be uploaded after final acceptance of the manuscript)
   - Waterloo Skin Cancer
   - MED-NODE
   - SD-260
